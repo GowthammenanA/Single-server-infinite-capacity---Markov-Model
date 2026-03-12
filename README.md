@@ -25,7 +25,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 ```
-Developed by : GOWTHAMMENAN A
+NAME : GOWTHAMMENAN A
 Register number : 212225040100
 ```
 ```
